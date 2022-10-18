@@ -159,7 +159,7 @@ class SuccessAlertDialog extends StatelessWidget {
                         color: Colors.black,
                         fontWeight: FontWeight.w500),
                   ),
-                )
+                ),
               ],
             ),
           ),
