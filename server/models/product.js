@@ -32,5 +32,5 @@ const productSchema = mongoose.Schema({
     //ratingd
  });
 
- const Product = mongoose.model('Product', productSchema);
+ const Product = mongoose.model("Product", productSchema);
  module.exports = Product;
